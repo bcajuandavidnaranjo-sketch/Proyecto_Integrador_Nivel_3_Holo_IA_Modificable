@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backend_holo_ia_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Frontend_holo_ia_demo" vcs="Git" />
+  </component>
+</project>
